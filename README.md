@@ -1,0 +1,2 @@
+# suckless
+all suckless software
